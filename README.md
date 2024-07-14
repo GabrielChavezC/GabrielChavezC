@@ -1,5 +1,45 @@
-# 💫 About Me:
-¡Hola! Soy Gabriel Chávez Camargo, un apasionado ingeniero en sistemas computacionales especializado en la rama de data science. Con 24 años y radicando en México, estoy en búsqueda de oportunidades para aplicar mis habilidades en proyectos desafiantes y colaborativos.<br><br>Mi objetivo es seguir aprendiendo y creciendo profesionalmente en el mundo del big data. Me apasiona utilizar mis habilidades técnicas para analizar datos y generar ideas significativas que impulsen la toma de decisiones informadas.<br><br>Durante mi carrera, he adquirido experiencia en el desarrollo de modelos predictivos, análisis de datos, y visualización de información. Además, poseo habilidades en programación en lenguajes como Python, asi como el uso de diferentes herramientas para el análisis de datos.<br><br>Estoy emocionado por la oportunidad de trabajar en proyectos innovadores que desafíen mis habilidades y conocimientos. Si estás buscando un colaborador comprometido, con pasión por el data science y el deseo de destacar en su campo, ¡contáctame! Estoy ansioso por contribuir al éxito de tu equipo.<br><br>¡Saludos desde México!<br>
+
+## 💫 About Me:
+¡Hola! Soy Gabriel Chávez Camargo, un ingeniero en sistemas computacionales apasionado por el data science. Con 24 años y radicando en México, estoy en busca de oportunidades en proyectos desafiantes y colaborativos. 🌟
+
+Mi meta es crecer en el mundo del big data, aplicando mis habilidades para analizar datos y generar ideas que apoyen decisiones informadas. 🔍💡
+
+Durante mi carrera, he adquirido experiencia en ciencia de datos y análisis, especializándome en Python, Pandas y modelos de machine learning como regresión lineal, bosques aleatorios, y potenciación de gradientes. He trabajado en proyectos de big data con algoritmos como Random Forest, Logistic Regression, LightGBM y XGBoost, y tengo conocimientos básicos en deep learning usando TensorFlow y PyTorch. 📊🤖
+
+Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadores. Si buscas un colaborador comprometido y apasionado por el data science, ¡contáctame! 🚀
+
+* 🖥️ Te Invito a ver mi portafolio en donde encontraras todo tipo de proyectos interesantes y desafiantes [Myportfolio](http://gabrielchavezc.github.io/)
+<table>
+  <tr>
+    <td style="border: 1px solid #ccc; padding: 10px; text-align: center;">
+      <img src="https://via.placeholder.com/150" alt="Imagen 1" style="width:100%;">
+      <p>1</p>
+    </td>
+    <td style="border: 1px solid #ccc; padding: 10px; text-align: center;">
+      <img src="https://i.postimg.cc/HsBDT4gk/movies.png" alt="Imagen 2" style="width:100%;">
+     <p><a href="https://gabrielchavezc.github.io/projects/movies_proyect.html">Movie Analysis</a></p>
+    </td>
+    <td style="border: 1px solid #ccc; padding: 10px; text-align: center;">
+      <img src="https://i.postimg.cc/9XkQchtk/fraude.png" alt="Imagen 3" style="width:100%;">
+     <p><a href="https://drive.google.com/file/d/1p2QzXY-PZSzsio_2u9Ule-6Vz5RYHgJ7/view">Fraud Detection</a></p>
+    </td>
+    <td style="border: 1px solid #ccc; padding: 10px; text-align: center;">
+      <img src="https://via.placeholder.com/150" alt="Imagen 4" style="width:100%;">
+      <p>4</p>
+    </td>
+    <td style="border: 1px solid #ccc; padding: 10px; text-align: center;">
+      <img src="https://via.placeholder.com/150" alt="Imagen 5" style="width:100%;">
+      <p link=""> 5</p>
+    </td>
+    <td style="border: 1px solid #ccc; padding: 10px; text-align: center;">
+      <img src="https://via.placeholder.com/150" alt="Imagen 6" style="width:100%;">
+      <p> 6</p>
+    </td>
+  </tr>
+</table>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://gabrielchavezc.github.io/)
+
 
 
 ## 🌐 Socials:
