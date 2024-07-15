@@ -1,6 +1,6 @@
 
 ## 💫 About Me:
-¡Hola! Soy Gabriel Chávez Camargo, un ingeniero en sistemas computacionales apasionado por el data science. Con 24 años y radicando en México, estoy en busca de oportunidades en proyectos desafiantes y colaborativos. 🌟
+¡Hola! Soy Gabriel Chávez Camargo, un ingeniero en sistemas computacionales apasionado por el data science. Con 25 años y radicando en México, estoy en busca de oportunidades en proyectos desafiantes y colaborativos. 🌟
 
 Mi meta es crecer en el mundo del big data, aplicando mis habilidades para analizar datos y generar ideas que apoyen decisiones estratégicas. 🔍💡
 
@@ -8,7 +8,7 @@ Durante mi carrera, he adquirido experiencia en ciencia de datos y análisis, es
 
 Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadores. Si buscas un colaborador comprometido y apasionado por el data science, ¡contáctame! 🚀
 
-* 🖥️ Te Invito a ver mi portafolio en donde encontraras todo tipo de proyectos interesantes y desafiantes [Myportfolio](http://gabrielchavezc.github.io/)
+* 🖥️ Te Invito a ver mi portafolio en donde encontraras todo tipo de proyectos interesantes y desafiantes  [Myportfolio](http://gabrielchavezc.github.io/)
 
 ## Proyectos 
 <table>
@@ -113,17 +113,32 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GabrielChavezC&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GabrielChavezC&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielChavezC&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+<a href="#">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielChavezC&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielChavezC&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</a>
+</p>
+
+<p align="center">
+<a href="#">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielChavezC&theme=tokyonight&hide_border=false"/>
+</a>
+</p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GabrielChavezC&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
+<p align="center">
+  <a href="#">
+  <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</a>
+</p>
+
 [![](https://visitcount.itsvg.in/api?id=GabrielChavezC&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
