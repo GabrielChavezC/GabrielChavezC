@@ -46,7 +46,7 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
           <a href="https://gabrielchavezc.github.io/projects/telecom_proyect.html" target="_blank">
             <img src="https://img.shields.io/badge/-CODE-green?style=for-the-badge&color=000080">
           </a>
-           <a href="#" target="_blank">
+           <a href="https://www.linkedin.com/feed/update/urn:li:activity:7218962684245872640/" target="_blank">
             <img src="https://img.shields.io/badge/linkedin-000080?style=for-the-badge&logo=linkedin&logoColor=black">
           </a>
         </p>
