@@ -135,7 +135,7 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GabrielChavezC&theme=algolia-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=GabrielChavezC&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ---
