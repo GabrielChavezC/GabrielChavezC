@@ -135,7 +135,7 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GabrielChavezC&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=GabrielChavezC&theme=algolia-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ---
@@ -144,6 +144,16 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
   <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </a>
 </p>
+
+### 🔝 Top Contributed Repo
+<p align="center">
+  <a href="#">
+  <img height="250em" src="https://github-contributor-stats.vercel.app/api?username=GabrielChavezC&limit=5&theme=algolia&combine_all_yearly_contributions=true"/>
+</a>
+</p>
+
+---
+
 
 [![](https://visitcount.itsvg.in/api?id=GabrielChavezC&icon=0&color=0)](https://visitcount.itsvg.in)
 
