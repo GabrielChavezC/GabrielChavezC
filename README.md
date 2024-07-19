@@ -123,7 +123,7 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
 <a href="#">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielChavezC&theme=algolia&hide_progress=true"/>
  
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GabrielChavezC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GabrielChavezC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
