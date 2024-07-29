@@ -54,20 +54,25 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
       </div>
     </td>
     <td width="30%">
-      <h3 align="center"></h3>
+      <h3 align="center">Dashboard</h3>
       <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://i.postimg.cc/C1rfVzZJ/image1-0.jpg" width="400" alt="img">
+        <a href="" target="_blank">
+          <img src="https://github.com/user-attachments/assets/f2bef59b-7f4b-4613-8629-eb529ce8691a" width="400" alt="img">
         </a>
         <p>
-          <a href="#" target="_blank">
+          <a href="https://dash-store-brazil-analytics.streamlit.app/" target="_blank">
+            <img src="https://img.shields.io/badge/APP-80ffaa?style=for-the-badge&logo=webpack&logoColor=black">
+          </a>
+          <a href="https://github.com/GabrielChavezC/store_sales_interactive" target="_blank">
             <img src="https://img.shields.io/badge/GITHUB-80ffaa?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/-CODE-green?style=for-the-badge&color=3fFD7f">
+           <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/linkedin-80ffaa?style=for-the-badge&logo=linkedin&logoColor=black">
           </a>
         </p>
-        <p></p>
+        <p>Una tienda online de moda, con presencia en todo Brasil, necesita impulsar su rendimiento utilizando sus datos de manera estratégica. 🌟👗👠
+
+¿Listos para transformar datos en decisiones inteligentes? 🔍💡📈</p>
       </div>
     </td>
   </tr>
