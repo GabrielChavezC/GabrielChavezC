@@ -2,6 +2,9 @@
 ## 💫 About Me:
 ¡Hola! Soy Gabriel Chávez Camargo, un ingeniero en sistemas computacionales apasionado por el data science. Con 25 años y radicando en México, estoy en busca de oportunidades en proyectos desafiantes y colaborativos. 🌟
 
+Siempre he disfrutado descubrir la información que ocultan los datos a través de análisis específicos. Además, me fascina predecir futuros inciertos utilizando machine learning, lo que me permite ofrecer soluciones precisas y orientadas a resultados.
+
+
 Mi meta es crecer en el mundo del big data, aplicando mis habilidades para analizar datos y generar ideas que apoyen decisiones estratégicas. 🔍💡
 
 Durante mi carrera, he adquirido experiencia en ciencia de datos y análisis, especializándome en Python, Pandas y modelos de machine learning como regresión lineal, bosques aleatorios, y potenciación de gradientes. He trabajado en proyectos de big data con algoritmos como Random Forest, Logistic Regression, LightGBM y XGBoost, y tengo conocimientos básicos en deep learning usando TensorFlow y PyTorch. 📊🤖
