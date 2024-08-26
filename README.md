@@ -75,7 +75,7 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
         </p>
         <p>Una tienda online de moda, con presencia en todo Brasil, necesita impulsar su rendimiento utilizando sus datos de manera estratégica. 🌟👗👠
 
-¿Listos para transformar datos en decisiones inteligentes? 🔍💡📈</p>
+   Impulsa tu tienda usando un análisis de datos estratégicos 🔍💡📈</p>
       </div>
     </td>
   </tr>
